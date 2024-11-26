@@ -7,3 +7,5 @@
 **Power BI - NZ (official).pdf:** This file contains the graphs created for **Task 1: New Alerts for New Zealand.**
 
 **Research Findings.pdf:** This is the presentation completed in Week 2, summarizing the research findings.
+
+**Detailed Documentation for the news Fetching Script** This documents the how to do Web scraping for Agricultural incidents from google news. 
